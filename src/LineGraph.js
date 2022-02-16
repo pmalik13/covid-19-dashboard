@@ -85,7 +85,7 @@ function LineGraph({ casesType }) {
 
   return (
     <div>
-      <h1>I am a graph</h1>
+      <h1>TBD: Cases graph</h1>
     </div>
   );
 }
